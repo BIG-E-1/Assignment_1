@@ -8,7 +8,7 @@
 #define B_ 600 //0.6
 #define C_ 17
 #define D_ 2000 //2
-#define Fiftyus 250 //0.05??
+#define Fiftyus 2500 //0.05??
 
 int But1_State = 0;         // variable for reading the pushbutton status
 int But2_State = 0;         // variable for reading the pushbutton status
